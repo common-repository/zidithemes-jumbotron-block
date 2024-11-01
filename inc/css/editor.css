@@ -1,0 +1,18 @@
+/*
+	ADMIN CSS 
+*/
+
+.wp-block-zidithemes-jumbotron-block {}
+
+.wp-block-zidithemes-align-bg-block .zidithemes-jumbotron-content {
+	width: auto;
+}
+
+
+.wp-block-zidithemes-align-bg-block {
+	
+}
+
+.wp-block-zidithemes-align-bg-block .zidithemes-jumbotron-content {
+	height: 74px;
+}
